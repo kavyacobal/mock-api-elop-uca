@@ -7,10 +7,12 @@
       "title": "NATIONAL FOOD DISTRIBUTION PROGRAMS*",
       "options": [
         {
-          "optionText": "Foodbuy National and Regional Distribution Program"
+          "optionText": "Foodbuy National and Regional Distribution Program",
+          "optionValue":false
         },
         {
-          "optionText": "Foodbuy National and Regional Distribution Program"
+          "optionText": "Foodbuy National and Regional Distribution Program",
+          "optionValue":true
         }
       ]
     }
