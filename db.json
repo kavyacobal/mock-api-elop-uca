@@ -1,5 +1,19 @@
 {
-  "profile": {
-    "name": "typicode"
+  "exhibit": {
+    "formType": "A",
+  "questions": [
+    {
+      "questionId": 1,
+      "title": "NATIONAL FOOD DISTRIBUTION PROGRAMS*",
+      "options": [
+        {
+          "optionText": "Foodbuy National and Regional Distribution Program"
+        },
+        {
+          "optionText": "Foodbuy National and Regional Distribution Program"
+        }
+      ]
+    }
+  ]
   }
 }
