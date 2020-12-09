@@ -69,6 +69,36 @@
           "optionValue":true
         }
       ]
+    },
+    {
+      "questionId": 5,
+      "title": "Hot Beverage",
+      "multiple":true,
+      "options": [
+        {
+          "optionText": "S&D Coffee Program: Includes Equipment/Service (Direct Store Delivery & (Broadline) ",
+          "optionValue":true
+        },
+        {
+          "optionText": "Farmer Brother Coffee Program: includes Equipment/Service (Direct Store Delivery)",
+          "optionValue":false
+        }
+      ]
+    },
+     {
+      "questionId": 6,
+      "title": "Check All That Apply",
+      "multiple":true,
+      "options": [
+        {
+          "optionText": "Room and Amenities Programs via American Hotel Register  ",
+          "optionValue":true
+        },
+        {
+          "optionText": "Room and Amenities Programs via Guest Supply ",
+          "optionValue":true
+        }
+      ]
     }
   ]
   }
