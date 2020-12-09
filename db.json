@@ -57,7 +57,7 @@
     },
     {
       "questionId": 4,
-      "title": "Select "All" Unless Exclusions Apply",
+      "title": "Select All Unless Exclusions Apply",
       "multiple":false,
       "options": [
         {
