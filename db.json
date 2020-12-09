@@ -5,7 +5,7 @@
     {
       "questionId": 1,
       "title": "NATIONAL FOOD DISTRIBUTION PROGRAMS*",
-      "answerType":"radio",
+      "multiple":false,
       "options": [
         {
           "optionText": "Foodbuy National and Regional Distribution Program",
@@ -20,7 +20,7 @@
     {
       "questionId": 2,
       "title": "Who is your current contract program with?*",
-      "answerType":"radio",
+      "multiple":false,
       "options": [
         {
           "optionText": "US Foods",
@@ -39,7 +39,7 @@
     {
       "questionId": 3,
       "title": "Regional Distribution Programs",
-      "answerType":"checkbox",
+      "multiple":true,
       "options": [
         {
           "optionText": "Regional Produce Program ",
