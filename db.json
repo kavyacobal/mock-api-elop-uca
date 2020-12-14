@@ -106,7 +106,7 @@
   {
     "tierTitle": "Concierge - HCW Development Regions",
     "id": "8a9d7dc6-d42f-eb11-a813-000d3a5c0e3c",
-    "isResponsible": false,
+    "isResponsible": true,
     "children": [
       {
         "tierTitle": "Arizona Region HCWRk testRk test RK test RK test RK test",
@@ -116,7 +116,7 @@
           {
             "tierTitle": "Aloft Glendale - HCW",
             "id": "c061d1c0-6439-eb11-a813-000d3a33f304",
-            "isResponsible": false,
+            "isResponsible": true,
             "children": []
           },
           {
@@ -134,7 +134,7 @@
           {
             "tierTitle": "Springhill Suites Goodyear - HCW",
             "id": "c661d1c0-6439-eb11-a813-000d3a33f304",
-            "isResponsible": false,
+            "isResponsible": true,
             "children": []
           },
           {
