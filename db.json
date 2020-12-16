@@ -208,13 +208,13 @@
 "uca":{
   "ucaOption": 1,
   "ucaFormData": {
-    "fullName": null,
+    "fullName": "kavya",
     "shippingFullName": "string",
     "tradeName": "string",
     "shippingPhone": "string",
     "shippingEmail": "string",
     "shippingAddress": "string",
-    "shippingCity": "string",
+    "shippingCity": "pondy",
     "shippingState": "string",
     "shippingZip": "string",
     "shippingCountry": "string",
