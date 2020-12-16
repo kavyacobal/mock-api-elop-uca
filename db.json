@@ -208,7 +208,7 @@
 "uca":{
   "ucaOption": 1,
   "ucaFormData": {
-    "fullName": "string",
+    "fullName": null,
     "shippingFullName": "string",
     "tradeName": "string",
     "shippingPhone": "string",
