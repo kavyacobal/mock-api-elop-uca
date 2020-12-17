@@ -269,7 +269,7 @@
   "supplierPdfName": "string",
   "supplierPdf": null,
   "supplierProvidedPdfLink": "../../../data/media/files/uca_form.pdf",
-  "externalLink": "string",
+  "externalLink": "https://www.google.com",
   "externalLinkSubmitted": true
 }
 }
