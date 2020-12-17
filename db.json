@@ -268,7 +268,7 @@
   },
   "supplierPdfName": "string",
   "supplierPdf": null,
-  "SupplierProvidedPdfLink": "../../../data/media/files/uca_form.pdf",
+  "supplierProvidedPdfLink": "../../../data/media/files/uca_form.pdf",
   "externalLink": "string",
   "externalLinkSubmitted": true
 }
