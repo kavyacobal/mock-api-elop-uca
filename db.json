@@ -206,7 +206,7 @@
   }
 ],
 "uca":{
-  "ucaOption": 2,
+  "ucaOption": 1,
   "ucaFormData": {
     "fullName": "kavya",
     "shippingFullName": "string",
