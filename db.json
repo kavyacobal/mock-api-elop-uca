@@ -211,7 +211,7 @@
     "fullName": "kavya",
     "shippingFullName": "string",
     "tradeName": "string",
-    "shippingPhone": "string",
+    "shippingPhone": null,
     "shippingEmail": "string",
     "shippingAddress": "string",
     "shippingCity": "pondy",
