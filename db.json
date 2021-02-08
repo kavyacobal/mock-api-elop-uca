@@ -237,7 +237,7 @@
     "businessOpenedDate": "2020-11-21T17:28:57.3626682+05:30",
     "creditReferences": [
       {
-        "vendorFullName": null,
+        "vendorFullName": "vendor",
         "accountNumber": 0,
         "city": "string",
         "state": "string",
@@ -250,7 +250,7 @@
     "bankPhoneNo": "string",
     "bankCheckingAccountNumber": 0,
     "bankLoanAccountNumber": 0,
-    "hasExistingBusiness": true,
+    "hasExistingBusiness": false,
     "businessFullName": null,
     "businessAddress": "string",
     "businessCity": "string",
