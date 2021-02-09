@@ -208,10 +208,10 @@
 "uca":{
   "ucaOption": 1,
   "ucaFormData": {
-    "fullName": null,
+    "fullName": "kavya",
     "shippingFullName": "string",
     "tradeName": "string",
-    "shippingPhone": 9999,
+    "shippingPhone": "9999",
     "shippingEmail": "string",
     "shippingAddress": "string",
     "shippingCity": "pondy",
@@ -250,7 +250,7 @@
     "bankPhoneNo": "string",
     "bankCheckingAccountNumber": 0,
     "bankLoanAccountNumber": 0,
-    "hasExistingBusiness": false,
+    "hasExistingBusiness": true,
     "businessFullName": null,
     "businessAddress": "string",
     "businessCity": "string",
