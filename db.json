@@ -234,7 +234,7 @@
     "fedIdNumber": 0,
     "formationState": "string",
     "facilityType": "string",
-    "businessOpenedDate": "2020-11-21T17:28:57.3626682+05:30",
+    "businessOpenedDate": null,
     "creditReferences": [
       {
         "vendorFullName": "vendor",
@@ -263,7 +263,7 @@
     "isAcknowledged": true,
     "ackApplicantName": "string",
     "ackApplicantTitle": "string",
-    "ackApplicantDate": null,
+    "ackApplicantDate": "2020-11-21T17:28:57.3626682+05:30",
     "signature": "string"
   },
   "supplierPdfName": "Download the pdf template from here and fill it up",
