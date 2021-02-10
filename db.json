@@ -260,11 +260,11 @@
     "accountsAddress": "string",
     "accountsCity": "string",
     "accountsState": "string",
-    "isAcknowledged": false,
+    "isAcknowledged": true,
     "ackApplicantName": "string",
     "ackApplicantTitle": "string",
-    "ackApplicantDate": "2020-11-21T17:28:57.3636385+05:30",
-    "signature": null
+    "ackApplicantDate": null,
+    "signature": "string"
   },
   "supplierPdfName": "Download the pdf template from here and fill it up",
   "supplierPdf": null,
