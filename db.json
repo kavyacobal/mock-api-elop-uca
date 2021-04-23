@@ -215,7 +215,7 @@
     "shippingEmail": "string@gmail.co",
     "shippingAddress": "string",
     "shippingCity": "pondy",
-    "shippingState": "Georgia",
+    "shippingState": null,
     "shippingZip": "string",
     "shippingCountry": "Jordan",
     "billingFullName": "string",
