@@ -209,7 +209,7 @@
   "ucaOption": 1,
   "ucaFormData": {
     "fullName": "kavya",
-    "shippingFullName": "string",
+    "shippingFullName": null,
     "tradeName": "string",
     "shippingPhone": "8056543213",
     "shippingEmail": "string@gmail.co",
@@ -219,7 +219,7 @@
     "shippingZip": "string",
     "shippingCountry": "Jordan",
     "billingFullName": "string",
-    "billingAddress": "string",
+    "billingAddress": null,
     "billingFaxNo": "1234567890",
     "billingEmail": "string@gmail.co",
     "billingCity": "string",
