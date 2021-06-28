@@ -212,7 +212,7 @@
     "shippingFullName": null,
     "tradeName": "string",
     "shippingPhone": "8056543213",
-    "shippingEmail": "string@gmail.co",
+    "shippingEmail": null,
     "shippingAddress": "string",
     "shippingCity": "pondy",
     "shippingState": null,
