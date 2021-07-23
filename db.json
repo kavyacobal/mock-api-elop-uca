@@ -217,7 +217,7 @@
     "shippingCity": "pondy",
     "shippingState": null,
     "shippingZip": "string",
-    "shippingCountry": "Jordan",
+    "shippingCountry": null,
     "billingFullName": "string",
     "billingAddress": null,
     "billingFaxNo": "1234567890",
