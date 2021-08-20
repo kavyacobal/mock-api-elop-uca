@@ -132,15 +132,7 @@
     "formationState": "string",
     "facilityType": "string",
     "businessOpenedDate": "2021-01-01",
-    "creditReferences": [
-      {
-        "vendorFullName": "vendor",
-        "accountNumber": 0,
-        "city": "string",
-        "state": "string",
-        "phone": "1234567890"
-      }
-    ],
+    "creditReferences": null,
     "bankFullName": "string",
     "bankAccountNumber": 0,
     "bankContactName": "string",
