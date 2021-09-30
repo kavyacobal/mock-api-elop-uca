@@ -106,7 +106,7 @@
   "ucaOption": 1,
   "ucaFormData": {
     "fullName": "kavya",
-    "shippingFullName": null,
+    "shippingFullName": "Test",
     "tradeName": "string",
     "shippingPhone": "8056543213",
     "shippingEmail": null,
@@ -134,6 +134,20 @@
     "businessOpenedDate": "2021-01-01",
     "creditReferences": [
       {
+        "vendorFullName": "vendor",
+        "accountNumber": 0,
+        "city": "string",
+        "state": "string",
+        "phone": "1234567890"
+      },
+       {
+        "vendorFullName": "vendor",
+        "accountNumber": 0,
+        "city": "string",
+        "state": "string",
+        "phone": "1234567890"
+      },
+       {
         "vendorFullName": "vendor",
         "accountNumber": 0,
         "city": "string",
